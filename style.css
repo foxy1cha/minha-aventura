@@ -1,7 +1,7 @@
 body {
-    background-color: #1D4221;
+    background-color: #e2725b;
     color: white;
-    font-family: "Bai Jamjuree", sans-serif;
+    font-family: "Roboto Slab";
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,9 +10,14 @@ body {
 }
 
 button {
-    background-color: #64A712;
+    background-color: #af69cd;
     color: white;
-    font-family: "Bai Jamjuree", sans-serif;
+    font-family: "Nerko One", cursive; 
+}
+
+fot{
+
+    font-family: "Source Code Pro", monospace;
 }
 
 .passo {
@@ -30,4 +35,13 @@ main {
 
 img {
     max-width: 90%;
+    border-radius: 10px;
 }
+
+l{
+    font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
+}
+  
